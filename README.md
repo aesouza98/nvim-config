@@ -16,22 +16,22 @@ This repo is divided into different files, to make it more organized:
 `lua` directory - here we have our keymaps and some definitions and other options.
 
 # Extensions
-telescope
-telescope-fzf-native
-impatient
-nvim-treesitter
-playground
-harpoon
-undotree
-vim-fugitive
-nvim-web-devicons
-nvim-tree
-barbar
-bufferline.nvim
-bbye
-toggleterm
-indent-blankline
-auto-save
-lualine
+- telescope
+- telescope-fzf-native
+- impatient
+- nvim-treesitter
+- playground
+- harpoon
+- undotree
+- vim-fugitive
+- nvim-web-devicons
+- nvim-tree
+- barbar
+- bufferline.nvim
+- bbye
+- toggleterm
+- indent-blankline
+- auto-save
+- lualine
 
 # Keymaps
