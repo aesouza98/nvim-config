@@ -125,6 +125,9 @@ return require('packer').startup(function(use)
   -- Autosave
   use { "Pocco81/auto-save.nvim" }
 
+  -- Color Highlight
+  use { "norcalli/nvim-colorizer.lua" }
+
   --LSP
   use {
 	  'VonHeikemen/lsp-zero.nvim',
